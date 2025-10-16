@@ -144,6 +144,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: 'Optimizing Your Cargo, Maximizing Your Savings'
       - type: FeaturedItem
         title: Transportation
         subtitle: Numbers Done
