@@ -70,7 +70,7 @@ sections:
     subtitle: Business to Business solution
     items:
       - type: FeaturedItem
-        title: Logistics
+        title: Freight Forwarding & Logistics
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
