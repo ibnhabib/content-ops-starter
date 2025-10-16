@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A to Z logistics solution from packing, packaging, cross stuffing,
+      container loading offloading , imports, exports, customs clearance,
+      deliveries, fulfillments and storages services.
     actions:
       - label: Get started
         altText: ''
