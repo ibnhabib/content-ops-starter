@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'We move, We care'
+      text: ' Your Trusted Gateway to the World.'
       color: text-dark
       type: TitleBlock
     subtitle: One stop shop for logistics services
