@@ -123,10 +123,7 @@ sections:
         type: FeaturedItem
       - title: Cross-Stuffing & Cargo Consolidation
         subtitle: 'Optimizing Your Cargo, Maximizing Your Savings'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Cross-stuffing is a specialized service ideal for businesses that need to consolidate or re-organize shipments without the cost of full warehouse storage.\n\n*   **What we do:**\_We transfer your goods from one container to another, often to combine multiple LCL shipments into one FCL, or to separate a consolidated shipment for different final destinations.\n\n*   **Benefits:**\n\n    *   **Cost Reduction:**\_Save significantly on shipping costs by optimizing container space.\n\n    *   **Flexibility:**\_Handle complex shipments with different origins and destinations.\n\n    *   **Efficiency:**\_Our secure yards and experienced team ensure the process is swift and damage-free.\n\nThis service is perfect for traders, distributors, and projects with diverse cargo needs.\n\n\n\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
