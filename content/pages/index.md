@@ -7,7 +7,7 @@ sections:
       text: 'We move, We care'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: One stop shop for logistics services
     text: >
       A to Z logistics solution from packing, packaging, cross stuffing,
       container loading offloading , imports, exports, customs clearance,
