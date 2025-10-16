@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Logistics and Transports servcies
       color: text-primary
       styles:
         self:
