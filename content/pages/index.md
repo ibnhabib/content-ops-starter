@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Business to Business solution
     items:
       - type: FeaturedItem
         title: Logistics
