@@ -72,7 +72,11 @@ sections:
       - type: FeaturedItem
         title: Freight Forwarding & Logistics
         subtitle: Numbers Done
-        text: "At Mars Express Logistics, we master the art and science of moving your goods across borders. We offer tailored freight solutions that are as dynamic as the global market itself.\n\n*   **Sea Freight:**\_Cost-effective and reliable solutions for Full Container Loads (FCL) and Less than Container Loads (LCL). We have strong partnerships with major shipping lines, ensuring competitive rates and priority booking.\n\n*   **Air Freight:**\_When time is critical, our air freight services guarantee speed and security. We provide expedited handling for urgent shipments from and to all major airports.\n\n*   **Land Freight:**\_For regional trade, our land freight network connects the UAE seamlessly with the GCC and wider Middle East, offering flexible and efficient overland transport.\n\n**Why Choose Us?**\_Our strategic location in the UAE, one of the world's busiest trading hubs, allows us to offer unparalleled access and efficiency in international freight.\n\n\n\n"
+        text: >+
+          At Mars Express Logistics, we master the art and science of moving
+          your goods across borders. We offer tailored freight solutions that
+          are as dynamic as the global market itself.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
