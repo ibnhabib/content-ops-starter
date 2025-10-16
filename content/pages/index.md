@@ -7,7 +7,9 @@ sections:
       text: ' Your Trusted Gateway to the World.'
       color: text-dark
       type: TitleBlock
-    subtitle: One stop shop for logistics services
+    subtitle: >-
+      Seamless, Efficient, and Reliable Logistics Solutions from the Heart of
+      the UAE
     text: >
       A to Z logistics solution from packing, packaging, cross stuffing,
       container loading offloading , imports, exports, customs clearance,
