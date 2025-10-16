@@ -98,6 +98,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: 'Connecting Markets, Delivering Possibilities'
       - title: Imports and Exports
         subtitle: The Job Stuff
         text: >-
