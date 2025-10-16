@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Cross-Stuffing & Cargo Consolidation
-        subtitle: Faster
+        subtitle: 'Optimizing Your Cargo, Maximizing Your Savings'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
