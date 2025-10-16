@@ -10,10 +10,16 @@ sections:
     subtitle: >-
       Seamless, Efficient, and Reliable Logistics Solutions from the Heart of
       the UAE
-    text: >
-      A to Z logistics solution from packing, packaging, cross stuffing,
-      container loading offloading , imports, exports, customs clearance,
-      deliveries, fulfillments and storages services.
+    text: >+
+      Welcome to Mars Express Logistics, a premier logistics partner
+      headquartered in the dynamic United Arab Emirates. Strategically located
+      at the crossroads of global trade, we leverage our local expertise and
+      international network to provide end-to-end supply chain solutions.
+      Whether you are importing goods through Jebel Ali or exporting to emerging
+      markets, we are your single point of contact for all your logistics needs.
+      From complex customs clearance to last-mile courier delivery, we deliver
+      excellence, on time, every time.
+
     actions:
       - label: Get started
         altText: ''
